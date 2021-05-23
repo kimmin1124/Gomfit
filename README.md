@@ -9,14 +9,16 @@ SANGMYUNG UNIVERCITY_DL lecture_Team_Injeolmi_Developing a game using semantic s
 ###### 상단 링크에서 AI 모듈을 활용했으며 필요한 입력값으로의 변환함수를 작성하여 활용했습니다.
 
 
-# 실행 모듈에 추가한 함수
+# 실행 모듈에 추가한 함수 convert_para()
+
 
 def convert_para(tdx,x3):
-    
     input_toUnity = 0;
-    creteria = 15 #고개 회전 판단 기준값
+    #고개 회전 판단 기준값
+    creteria = 15 
     temp = tdx - x3
-    
+def convert_para(tdx,x3):
+
     if(temp > creteria):
         input_toUnity = 1
         print("Right, input_toUnity:{}".format(input_toUnity))
