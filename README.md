@@ -7,6 +7,8 @@ SANGMYUNG UNIVERCITY_DL lecture_Team_Injeolmi_Developing a game using semantic s
 ###### 이 소프트웨어는 FSA 기술의 활용을 보여줄 수 있는 게임 소프트웨어입니다.
 ###### 게임명인 곰피트는 곰돌이 (Gom) + 피트니스(Fitness) 의 합성어로 귀여운 곰과 함께 목 스트레칭을 통해 건강에 도움을 줄 수 있다는 뜻으로 이름지었습니다.
 
+![image](https://user-images.githubusercontent.com/56291828/119260924-f8d25f80-bc0f-11eb-82e3-de634a62e4f2.png)
+
     def convert_para(tdx,x3):
         input_toUnity = 0
         creteria = 15 
