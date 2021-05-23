@@ -9,14 +9,14 @@ SANGMYUNG UNIVERCITY_DL lecture_Team_Injeolmi_Developing a game using semantic s
 
 
 
-# 실행 모듈에 추가한 함수 convert_para()
+# 실행 모듈에 추가한 함수
 
 
-def convert_para(tdx,x3):
-    input_toUnity = 0;
-    #고개 회전 판단 기준값
+def convert_para(tdx,x3)
+    input_toUnity = 0
     creteria = 15 
     temp = tdx - x3
+    
     if(temp > creteria):
         input_toUnity = 1
         print("Right, input_toUnity:{}".format(input_toUnity))
@@ -28,3 +28,5 @@ def convert_para(tdx,x3):
         print("Left, input_toUnity:{}".format(input_toUnity))
         
     return input_toUnity
+    
+  
