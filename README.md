@@ -12,7 +12,7 @@ SANGMYUNG UNIVERCITY_DL lecture_Team_Injeolmi_Developing a game using semantic s
 # 실행 모듈에 추가한 함수
 
 
-def convert_para(tdx,x3)
+def convert_para(tdx,x3):
     input_toUnity = 0
     creteria = 15 
     temp = tdx - x3
