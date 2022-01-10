@@ -1,14 +1,11 @@
-# 2021_SMU_DeepLearning_Injeolmi
-SANGMYUNG UNIVERCITY_DL lecture_Team_Injeolmi_Developing a game using semantic segmentation
-#
+# Gomfit (곰피트)
 
-##### Youtube 영상 : https://www.youtube.com/watch?v=4yNsB2HdZ3E&t=161s&ab_channel=%EB%98%90%EB%82%98
+##### Youtube 영상 : https://www.youtube.com/watch?v=4yNsB2HdZ3E&t=161s&ab_channel=%EB%98%90%EB%82%98  
+<br/>
 
+## FSA-Net 깃헙 AI 모듈을 활용한 프로그램입니다.
+###### https://github.com/shamangary/FSA-Net
 
-#
-
-## FSA-Net 깃헙 AI 모듈을 활용한 SW 프로그램입니다.
-### https://github.com/shamangary/FSA-Net
 ###### 상단 링크에서 AI 모듈을 활용했으며 필요한 입력값으로의 변환함수를 작성하여 활용했습니다.
 
 ![image](https://user-images.githubusercontent.com/56291828/119260924-f8d25f80-bc0f-11eb-82e3-de634a62e4f2.png)
