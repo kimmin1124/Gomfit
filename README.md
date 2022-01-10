@@ -1,7 +1,11 @@
 # 2021_SMU_DeepLearning_Injeolmi
 SANGMYUNG UNIVERCITY_DL lecture_Team_Injeolmi_Developing a game using semantic segmentation
+#
 
-### Youtube 영상 : ### https://www.youtube.com/watch?v=4yNsB2HdZ3E&t=161s&ab_channel=%EB%98%90%EB%82%98
+##### Youtube 영상 : https://www.youtube.com/watch?v=4yNsB2HdZ3E&t=161s&ab_channel=%EB%98%90%EB%82%98
+
+
+#
 
 ## FSA-Net 깃헙 AI 모듈을 활용한 SW 프로그램입니다.
 ### https://github.com/shamangary/FSA-Net
