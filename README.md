@@ -1,6 +1,7 @@
 # Gomfit (곰피트)
 
-##### Youtube 영상 : https://www.youtube.com/watch?v=4yNsB2HdZ3E&t=161s&ab_channel=%EB%98%90%EB%82%98  
+##### 발표 영상 : https://www.youtube.com/watch?v=4yNsB2HdZ3E&t=161s&ab_channel=%EB%98%90%EB%82%98
+##### 시연 영상 : https://www.youtube.com/watch?v=xwbtezULvHI&ab_channel=%EC%BF%A0%EC%8A%88%EC%8A%88
 <br/>
 
 ## FSA-Net 깃헙 AI 모듈을 활용한 프로그램입니다.
